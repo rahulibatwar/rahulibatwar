@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Rahul Gangadhar Ibatwar! 👋
 
-<!--
-**rahulibatwar/rahulibatwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 **About Me:** Pursuing a Computer Science Engineering Diploma (2nd Year, 3rd Semester).
+- 💻 **Passionate About:** Coding, Logic Building, and Software Architecture.
+- 🛠️ **Current Tech Stack:** Actively practicing C, C++, Python, and Java.
+- 🎯 **Long-Term Goal:** To work as a Software Architect at Google.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools I Use Daily
+- **Programming Languages:** C, C++, Python, Java
+- **Tools & Platforms:** VS Code, Git & GitHub, GCC Compiler
+
+---
+
+### 📈 My Coding Journey & Daily Practices
+- ⌨️ Dedicated to daily touch typing and technical English writing practice.
+- 🔍 Focused on mastering Data Structures and Object-Oriented Programming (OOPs).
+- 🎯 Building clean, optimized, and pushed-to-GitHub code every single day!
+-
