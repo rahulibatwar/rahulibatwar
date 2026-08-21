@@ -26,9 +26,10 @@
 
 ### 📊 GitHub Stats
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulibatwar&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulibatwar&layout=compact&theme=dark)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulibatwar&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulibatwar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ### 📬 Connect with Me
